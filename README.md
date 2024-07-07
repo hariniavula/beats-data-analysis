@@ -11,7 +11,7 @@ This project was part of an internship with Extern and Beats by Dr.Dre. I analyz
 
 ## Data Cleaning and Preprocessing 
 - file: data_cleaning.ipynb
-The collected data underwent a thorough cleaning process, which included:
+- The collected data underwent a thorough cleaning process, which included:
 - Handling missing values by filling them with appropriate placeholders or removing incomplete entries.
 - Standardizing the format of key columns, such as `timestamp` and `rating`.
 - cleaned data file: cleaned_data.csv 
