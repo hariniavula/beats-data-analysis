@@ -6,7 +6,7 @@ This project was part of an internship with Extern and Beats by Dr.Dre. I analyz
 ## Data Collection 
 - file: `gathering_data.ipynb`
 - The reviews were gathered using the *Oxylabs API*, which provided access to Amazon reviews for the specified headphone products. The API allowed us to efficiently collect a large volume of reviews for each product, ensuring a comprehensive dataset for analysis.
-- included one of the json files obtained from the API -> data (4).json
+- included one of the json files obtained from the API: `data (4).json`
 - raw data file: `Reviews-update.csv`
 
 ## Data Cleaning and Preprocessing 
