@@ -5,7 +5,7 @@ This project was part of an internship with Extern and Beats by Dr.Dre. I analyz
 
 
 ## Final Insights  
-- file: `Harini Avula: Beats by Dre Consumer Insights -  Capstone Project.ipynb`
+- file: `Harini_Avula:_Beats_by_Dre_Consumer_Insights_-_Capstone_Project.ipynb`
 - Comprehensive analysis and final insights derived from the project. 
 
 ## Data Collection 
