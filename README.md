@@ -3,6 +3,11 @@
 ## Project Overview
 This project was part of an internship with Extern and Beats by Dr.Dre. I analyzed customer reviews for various headphone products, including Beats Studio 3, Apple Airpods Max, Bose QuietComfort, Sennheiser, Sony M5, BERIBES, JBL, Soundcore Anker, Beats Studio Pro, and Beats Solo 4. The goal was to gain insights into consumer satisfaction and preferences for Beats by Dr. Dre products by leveraging data gathering, cleaning, analysis, and natural language processing.
 
+
+## Final Insights  
+- file: `Harini Avula: Beats by Dre Consumer Insights -  Capstone Project.ipynb`
+- Comprehensive analysis and final insights derived from the project. 
+
 ## Data Collection 
 - file: `gathering_data.ipynb`
 - The reviews were gathered using the *Oxylabs API*, which provided access to Amazon reviews for the specified headphone products. The API allowed us to efficiently collect a large volume of reviews for each product, ensuring a comprehensive dataset for analysis.
