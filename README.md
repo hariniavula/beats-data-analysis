@@ -5,7 +5,7 @@ This project was part of an internship with Extern and Beats by Dr.Dre. I analyz
 
 
 ## Final Comprehensive Report  
-- file: `Harini_Avula_Beats_by_Dre_Consumer_Insights_Capstone_Project.ipynb`
+- file: `Final Report.ipynb`
 - Explanation of process, comprehensive analysis, and final insights derived from the project. 
 
 ## Data Collection 
