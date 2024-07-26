@@ -40,8 +40,9 @@ The dataset includes the following key columns:
 - Conclusion of findings/insights at the bottom. 
 
 ## Analysis Using Gemini AI
-- file: `GeminiAI_Insights.ipynb`
+- file: `GeminiAI_Final_Insights.ipynb`
 - We utilized the *Gemini AI* model to analyze and summarize the key points from the reviews. The model helped in generating comprehensive insights for each subset of reviews.
+- API Key: https://ai.google.dev/gemini-api/docs/api-key
 
 ## Installation
 To run this project, ensure you have the following dependencies installed:
